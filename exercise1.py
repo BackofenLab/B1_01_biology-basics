@@ -41,7 +41,7 @@ def exercise_3_b():
         "splicing": 0,
         "transcription": 0,
         "ncRNA": 0,
-        "single-cell-organisms": 0,
+        "single-cell-organism": 0,
     }
     return b
 
