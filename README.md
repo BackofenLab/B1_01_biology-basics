@@ -11,19 +11,87 @@ Lehrstuhl für Bioinformatik - Institut für Informatik - *http://www.bioinf.uni
 
 **a)** Where is the genome stored in prokaryotes and eukaryotes?
 
-- [ ] Inside the nucleous in eukaryotes
+- [ ] Inside the nucleus in eukaryotes
 
 - [ ] Outside the cell in prokaryotes
 
-- [ ] Prokaryotes have not genome
+- [ ] Prokaryotes have no genome
+
+- [ ] Inside the nucleolus in prokaryotes
+
+- [ ] In chromatin in eukaryotes
+
+- [ ] Partially in mitochondria in prokaryotes
+
+- [ ] Inside the nucleoid in eukaryotes
 
 **b)** Name two more differences between prokaryotes and eukaryotes?
 
+- [ ] Prokaryotes have compartmentation through membrane
+
+- [ ] Eukaryotes are not multi-cellular organisms 
+
+- [ ] Prokaryotes have mitochondria
+
+- [ ] Eukaryotes have no nucleus 
+
+- [ ] Prokaryotes have no ER
+
+- [ ] Eukaryotes are single cell organisms
+
+- [ ] Eukaryotes have no flagellum
+
+
 **c)** Name examples for an organism for prokaryotes and eukaryotes.
+
+- [ ] Escherichia coli is a prokaryote
+
+- [ ] Amoebas are prokaryotes
+
+- [ ] Fungi are eukaryotes
+
+- [ ] Archaea are eukaryotes
+
+- [ ] Insects are eukaryotes
+
+- [ ] Salmonella is a prokaryote
+
+- [ ] Plasmodium malariae is a prokaryote
+
 
 **d)** What are the three information-carrying biopolymers?
 
+- [ ] Protein
+
+- [ ] Cellulose
+
+- [ ] DNA
+
+- [ ] Polysaccharides
+
+- [ ] RNA
+
+- [ ] amino acid
+
+- [ ] nucleotide
+
+
 **e)** What is denoted by the “Central Dogma” of molecular biology?
+
+- [ ] DNA can make RNA and then RNA makes Protein
+
+- [ ] Protein can make Protein
+
+- [ ] DNA can make DNA
+
+- [ ] Protein can make RNA and then RNA makes DNA
+
+- [ ] RNA can make RNA
+
+- [ ] DNA can make RNA and then RNA makes DNA
+
+- [ ] Protein can make DNA
+
 
 ### _Exercise 2 - DNA and RNA_
 The genetic information of an organism is stored in the DNA in the form of a code. This code consists of four building blocks or bases (A for adenine, C for cytosine, G for guanine, T for thymine). These bases or nucleotides follow each other in a certain sequence, e.g.:
