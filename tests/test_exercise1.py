@@ -1,5 +1,7 @@
 import pytest
-from exercise1 import exercise_2_a, exercise_2_b, exercise_2_c, exercise_3_a, exercise_3_b, exercise_3_c
+from exercise1 import exercise_2_a, exercise_2_b, exercise_2_c, exercise_2_d,\
+                      exercise_2_e, exercise_2_f, exercise_2_g,\
+                      exercise_3_a, exercise_3_b, exercise_3_c
 
 
 def test_exercise_2_a():
@@ -34,12 +36,34 @@ def test_exercise_2_c():
     assert sorted(purines) == ["A", "G"]
 
 def test_exercise_2_d():
+    a, b, c, d, e = exercise_2_d()
+    assert a is True
+    assert b is True
+    assert c is True
+    assert d is False
+    assert e is True
 
 def test_exercise_2_e():
+    a, b = exercise_2_e()
+    assert a is False
+    assert b is True
 
 def test_exercise_2_f():
+    """
+    The carbonatoms in the sugar of the nucleic acid are numbered from 1 to 5.
+    In the phosphate-sugar backbone, C5 and C4 are the carbon atoms that connect
+    to the phosphate group so that 5' denotes the end of the chain where C5 is the closest
+    and 3' denotes the ed where C3 is the cosest.
+    """
+    a, b, c = exercise_2_f()
+    assert a is True
+    assert b is False
+    assert c is False
 
 def test_exercise_2_g():
+    coding, non_coding = exercise_2_g()
+    assert coding == ["mRNA"]
+    assert non_coding == ["microRNA", "rRNA", "siRNA", "snoRNA", "tRNA"]
 
 def test_exercise_3_a():
     test = exercise_3_a()

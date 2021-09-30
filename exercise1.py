@@ -46,7 +46,7 @@ def exercise_2_c():
 def exercise_2_d():
     """Exercise 2 d
     Which of these statements concerning DNA and RNA are true and which are false?
-    Change the respective variable values accordingly.
+    Change the respective variable values with True or False accordingly.
     """
 
     # Uracil is a standard base in RNA
@@ -55,26 +55,60 @@ def exercise_2_d():
     # DNA is longer than RNA
     b = None
 
+    # DNA and RNA have a different structure
     c = None
 
+    # RNA has an intermolecular double-helix structure
     d = None
 
+    # RNA contains ribose sugar
     e = None
 
     return a, b, c, d, e
 
 def exercise_2_e():
     """Exercise 2 e
-
+    In what direction is an RNA sequence written ?
+    Change the respective variable values with True or False accordingly.
     """
+
+    # 3' end to 5' end
+    a = None
+
+    # 5' end to 3' end
+    b = None
+
+    return a, b
 
 def exercise_2_f():
     """Exercise 2 f
+    Why is the RNA sequence written in that diretion?
+    Change the respective variable values with True or False accordingly.
     """
+
+    # The order is based on the numbering of the carbons in the sugar of the nucleic acid
+    a = None
+
+    # The order is based on the numbering of the carbons in the phosphate of the nucleic acid
+    b = None
+
+    # The order was arbitrarily chosen by the discoverer of RNA
+    c = None
+
+    return a, b, c
 
 def exercise_2_g():
     """Exercise 2 g
+    Decide for the following RNAs whether they are coding or non-coding
+    by adding them to the correct list.
+    mRNA, tRNA, rRNA, microRNA, siRNA, snoRNA
     """
+
+    RNAs = ["mRNA", "tRNA", "rRNA", "microRNA", "siRNA", "snoRNA"]
+    coding = []
+    non_coding = []
+
+    return coding, non_coding
 
 def exercise_3_a():
     """Exercise 3 a
