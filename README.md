@@ -1,6 +1,6 @@
-Albert-Ludwigs-Universität Freiburg 
+Albert-Ludwigs-Universität Freiburg
 
-Lehrstuhl für Bioinformatik - Institut für Informatik - *http://www.bioinf.uni-freiburg.de* 
+Lehrstuhl für Bioinformatik - Institut für Informatik - *http://www.bioinf.uni-freiburg.de*
 
 ---
 ## Bioinformatics 1
@@ -29,11 +29,11 @@ Lehrstuhl für Bioinformatik - Institut für Informatik - *http://www.bioinf.uni
 
 - [ ] Prokaryotes have compartmentation through membrane
 
-- [ ] Eukaryotes are not multi-cellular organisms 
+- [ ] Eukaryotes are not multi-cellular organisms
 
 - [ ] Prokaryotes have mitochondria
 
-- [ ] Eukaryotes have no nucleus 
+- [ ] Eukaryotes have no nucleus
 
 - [ ] Prokaryotes have no ER
 
@@ -101,16 +101,29 @@ AGTCGTAATTGGCCCCAATTGCAAAAA
 
 A single hereditary unit is comprised of a subsequence of DNA (called a gene), which contains the information to build a functional RNA or protein molecule.
 
-**a)** Fill in the following names in the figure below: adenine, thymine, cytosine, guanine, uracil, phosphate, deoxyribose, hydrogen bond, backbone, and bases.
+**a)** Match these terms to the correct number in the figure below: adenine, thymine, cytosine, guanine, uracil, phosphate, deoxyribose, hydrogen bond, backbone, and bases.
+
+<img src="./figures/sheet1-q2.png" alt="DNA" width="200"/>
 
 **b)** A piece of DNA contains 33% guanine. What are the percentages of adenine, cytosine, and thymine in that piece of DNA?
 
-**c)** What are purines and pyrimidines?
+**c)** Decide which bases are pyramidines and which are purines: A for adenine, C for cytosine, G for guanine, T for thymine, U for uracil.
 
-**d)** What are the differences between DNA and RNA?
+**d)** Which of these statements concerning DNA and RNA are correct?
 
-**e)** In what direction is an RNA sequence written?
+- [ ] Uracil is a standard base in RNA
+- [ ] DNA is longer than RNA
+- [ ] DNA and RNA have a different structure
+- [ ] RNA has an intermolecular double-helix structure
+- [ ] RNA constains ribose sugar
 
-**f)** Why is the direction defined by the notation 5’ to 3’ ?
+**e)** In what direction is an RNA sequence written ?
+- [ ] 3' end to 5' end
+- [ ] 5' end to 3' end
 
-**g)** What is an RNA called that contains “coding” information and what is an RNA called that does not contain such information?
+**f)** Why is the RNA sequence written in that direction ?
+- [ ] The order is based on the numbering of the carbons in the sugar of the nucleic acid
+- [ ] The order is based on the numbering of the carbons in the phosphate of the nucleic acid
+- [ ] The order was arbitrarily chosen by the discoverer of RNA
+
+**g)** Decide for the following RNAs whether they are coding or non-coding: mRNA, tRNA, rRNA, microRNA, siRNA, snoRNA
