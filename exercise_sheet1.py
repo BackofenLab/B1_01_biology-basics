@@ -1,21 +1,173 @@
+def exercise_1_a():
+    """
+    Exercise 1 a
+    Where is the genome stored in prokaryotes and eukaryotes?
+    Assign the correct True and False values to the provided options.
+    """
+
+    # Inside the nucleus in eukaryotes
+    a = None
+
+    # Outside the cell in prokaryotes
+    b = None
+
+    # Prokaryotes have no genome
+    c = None
+
+    # Inside the nucleolus in prokaryotes
+    d = None
+
+    # In chromatin in eukaryotes
+    e = None
+
+    # Partially in mitochondria in prokaryotes
+    f = None
+
+    # Inside the nucleoid in eukaryotes
+    g = None
+
+    return a, b, c, d, e, f, g
+
+
+def exercise_1_b():
+    """
+    Name two more differences between prokaryotes and eukaryotes?
+    Assign the correct True and False values to the provided options.
+    """
+
+    # Prokaryotes have compartmentation through membrane
+    a = None
+
+    # Eukaryotes are not multi - cellular organisms
+    b = None
+
+    # Prokaryotes have mitochondria
+    c = None
+
+    # Eukaryotes have no nucleus
+    d = None
+
+    # Prokaryotes have no ER
+    e = None
+
+    # Eukaryotes are single cell organisms
+    f = None
+
+    # Eukaryotes have no flagellum
+    g = None
+
+    return a, b, c, d, e, f, g
+
+
+def exercise_1_c():
+    """
+    Name examples for an organism for prokaryotes and eukaryotes.
+    Assign the correct True and False values to the provided options.
+    """
+
+    # Escherichia coli is a prokaryote
+    a = None
+
+    # Amoebas  are prokaryotes
+    b = None
+
+    # Fungi are eukaryotes
+    c = None
+
+    # Archaea are eukaryotes
+    d = None
+
+    # Insects are eukaryotes
+    e = None
+
+    # Salmonella is a prokaryote
+    f = None
+
+    # Plasmodium  malariae is a prokaryote
+    g = None
+
+    return a, b, c, d, e, f, g
+
+
+def exercise_1_d():
+    """
+    Which of these are three information-carrying biopolymers?
+    Assign the True and False values to the provided options.
+    """
+
+    # Protein
+    a = None
+
+    # Cellulose
+    b = None
+
+    # DNA
+    c = None
+
+    # Polysaccharides
+    d = None
+
+    # RNA
+    e = None
+
+    # amino acid
+    f = None
+
+    # nucleotide
+    g = None
+
+    return a, b, c, d, e, f, g
+
+
+def exercise_1_e():
+    """
+    What is denoted by the “Central Dogma” of molecular biology?
+    Assign the True and False values to the provided options.
+    """
+
+    #Protein can make Protein
+    a = None
+
+    #DNA can make DNA
+    b = None
+
+    #Protein can make RNA and then RNA makes DNA
+    c = None
+
+    #DNA can make RNA and then RNA makes Protein
+    d = None
+
+    #RNA can make RNA
+    e = None
+
+    #DNA can make RNA and then RNA makes DNA
+    f = None
+
+    #Protein can make DNA
+    g = None
+
+    return a, b, c, d, e, f, g
+
+
 def exercise_2_a():
     """Exercise 2 a
     Assign the numbers (1-10) in the figure (see GitHub Readme or figures/sheet1-q2.png) to
     the respective terms given in the following dictionary:
     """
     a = {
-        "hydrogen_bond" : 0,
-        "phosphate" : 0,
-        "adenine" : 0,
-        "cytosine" : 0,
-        "uracil" : 0,
-        "backbone" : 0,
-        "deoxyribose" : 0,
-        "guanine" : 0,
-        "bases" : 0,
-        "thymine" : 0,
+        "hydrogen_bond": 0,
+        "phosphate": 0,
+        "adenine": 0,
+        "cytosine": 0,
+        "uracil": 0,
+        "backbone": 0,
+        "deoxyribose": 0,
+        "guanine": 0,
+        "bases": 0,
+        "thymine": 0,
     }
     return a
+
 
 def exercise_2_b():
     """Exercise 3 b
@@ -24,12 +176,13 @@ def exercise_2_b():
     Assign the percentages of each base to the following dictionary (in integer representation).
     """
     b = {
-        "adenine" : 0,
-        "cytosine" : 0,
-        "guanine" : 33,
-        "thymine" : 0
+        "adenine": 0,
+        "cytosine": 0,
+        "guanine": 33,
+        "thymine": 0
     }
     return b
+
 
 def exercise_2_c():
     """Exercise 2 c
@@ -42,6 +195,7 @@ def exercise_2_c():
     pyramidines = []
     purines = []
     return pyramidines, purines
+
 
 def exercise_2_d():
     """Exercise 2 d
@@ -66,6 +220,7 @@ def exercise_2_d():
 
     return a, b, c, d, e
 
+
 def exercise_2_e():
     """Exercise 2 e
     In what direction is an RNA sequence written ?
@@ -79,6 +234,7 @@ def exercise_2_e():
     b = None
 
     return a, b
+
 
 def exercise_2_f():
     """Exercise 2 f
@@ -97,6 +253,7 @@ def exercise_2_f():
 
     return a, b, c
 
+
 def exercise_2_g():
     """Exercise 2 g
     Decide for the following RNAs whether they are coding or non-coding
@@ -104,17 +261,17 @@ def exercise_2_g():
     mRNA, tRNA, rRNA, microRNA, siRNA, snoRNA
     """
 
-    RNAs = ["mRNA", "tRNA", "rRNA", "microRNA", "siRNA", "snoRNA"]
+    rna_types = ["tRNA", "rRNA", "microRNA", "mRNA", "siRNA", "snoRNA"]
     coding = []
     non_coding = []
 
     return coding, non_coding
 
+
 def exercise_3_a():
     """Exercise 3 a
-    The function contains a dict with acronyms that you should know.
-    What do they stand for?
-    Enter the number of the correct answer from the list below in the dict
+    What do these acronyms stand for within this course?
+    Enter the number of the correct answer from the list below in the dictionary
 
 
      1: non-coding-RNA

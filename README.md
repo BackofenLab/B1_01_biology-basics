@@ -78,13 +78,13 @@ Lehrstuhl für Bioinformatik - Institut für Informatik - *http://www.bioinf.uni
 
 **e)** What is denoted by the “Central Dogma” of molecular biology?
 
-- [ ] DNA can make RNA and then RNA makes Protein
-
 - [ ] Protein can make Protein
 
 - [ ] DNA can make DNA
 
 - [ ] Protein can make RNA and then RNA makes DNA
+
+- [ ] DNA can make RNA and then RNA makes Protein
 
 - [ ] RNA can make RNA
 
@@ -127,3 +127,65 @@ A single hereditary unit is comprised of a subsequence of DNA (called a gene), w
 - [ ] The order was arbitrarily chosen by the discoverer of RNA
 
 **g)** Decide for the following RNAs whether they are coding or non-coding: mRNA, tRNA, rRNA, microRNA, siRNA, snoRNA
+
+
+### _Exercise 3 - DNA and RNA_
+a) What do these acronyms stand for within this course?
+
+- DNA
+- RNA
+- ncRNA
+- mRNA
+- UTR
+- ORF
+- CDS
+
+If you are puzzled, try to pick the right answer from the list below.
+- non-coding-RNA
+- Opposite-Reading-Frame
+- Deoxyribonucleic acid
+- non-complementary-RNA
+- missense-RNA
+- messenger-RNA
+- ribonucleic acid
+- untranslated region
+- coding-strand
+- coding-sequence
+- open reading frame
+
+
+b) Check whether the following terms belong to Eukaryotes, Prokaryotes, both.
+
+- DNA
+- [ ] Eukaryotes
+- [ ] Prokaryotes
+- splicing
+- [ ] Eukaryotes
+- [ ] Prokaryotes
+- transcription
+- [ ] Eukaryotes
+- [ ] Prokaryotes
+- ncRNA"
+- [ ] Eukaryotes
+- [ ] Prokaryotes
+- single-cell-organism
+- [ ] Eukaryotes
+- [ ] Prokaryotes
+
+
+c) Check whether the  following statements are True or False.
+
+- [ ] The genome is stored in the nucleus
+
+
+- [ ] FASTA files are used to store sequence information
+
+
+- [ ] A Watson-Crick base pair describes a pyrimidine pairing with a purine
+
+
+- [ ] A Watson-Crick base pair describes a purine pairing with a purine
+
+
+- [ ] RNA is a single stranded bio-polymer
+
