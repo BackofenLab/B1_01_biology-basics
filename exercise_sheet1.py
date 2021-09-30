@@ -185,15 +185,15 @@ def exercise_2_b():
 
 def exercise_2_c():
     """Exercise 2 c
-    Which of the bases are pyramidenes and which are purines?
+    Which of the bases are pyrmidenes and which are purines?
     Add the nucleotide representation of each base
     (A for adenine, C for cytosine, G for guanine, T for thymine, U for uracil)
     to the correct list.
     """
     bases = ["A", "C", "G", "T", "U"]
-    pyramidines = []
+    pyrimidines = []
     purines = []
-    return pyramidines, purines
+    return pyrimidines, purines
 
 
 def exercise_2_d():
