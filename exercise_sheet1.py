@@ -89,7 +89,7 @@ def exercise_1_c():
 
 
 def exercise_1_d():
-    """
+    """Exercise 1 d
     Which of these are three information-carrying biopolymers?
     Assign the True and False values to the provided options.
     """
