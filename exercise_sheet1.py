@@ -1,6 +1,5 @@
 def exercise_1_a():
-    """
-    Exercise 1 a
+    """Exercise 1 a
     Where is the genome stored in prokaryotes and eukaryotes?
     Assign the correct True and False values to the provided options.
     """
@@ -30,7 +29,7 @@ def exercise_1_a():
 
 
 def exercise_1_b():
-    """
+    """Exercise 1 b
     Name two more differences between prokaryotes and eukaryotes?
     Assign the correct True and False values to the provided options.
     """
@@ -60,7 +59,7 @@ def exercise_1_b():
 
 
 def exercise_1_c():
-    """
+    """Exercise 1 c
     Name examples for an organism for prokaryotes and eukaryotes.
     Assign the correct True and False values to the provided options.
     """
@@ -120,7 +119,7 @@ def exercise_1_d():
 
 
 def exercise_1_e():
-    """
+    """Exercise 1 e
     What is denoted by the “Central Dogma” of molecular biology?
     Assign the True and False values to the provided options.
     """
@@ -170,7 +169,7 @@ def exercise_2_a():
 
 
 def exercise_2_b():
-    """Exercise 3 b
+    """Exercise 2 b
     A piece of DNA contains 33% guanine.
     What are the percentages of adenine, cytosine, and thymine in that piece of DNA?
     Assign the percentages of each base to the following dictionary (in integer representation).
