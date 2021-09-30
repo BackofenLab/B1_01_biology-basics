@@ -103,7 +103,7 @@ A single hereditary unit is comprised of a subsequence of DNA (called a gene), w
 
 **a)** Match these terms to the correct number in the figure below: adenine, thymine, cytosine, guanine, uracil, phosphate, deoxyribose, hydrogen bond, backbone, and bases.
 
-<img src="./figures/sheet1-q2.png" alt="DNA" width="200"/>
+<img src="./figures/sheet1-q2.png" alt="DNA" width="100%"/>
 
 **b)** A piece of DNA contains 33% guanine. What are the percentages of adenine, cytosine, and thymine in that piece of DNA?
 
