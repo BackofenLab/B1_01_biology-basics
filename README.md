@@ -2,6 +2,8 @@ Albert-Ludwigs-Universität Freiburg
 
 Lehrstuhl für Bioinformatik - Institut für Informatik - *http://www.bioinf.uni-freiburg.de*
 
+Course ilias web page: *https://ilias.uni-freiburg.de/ilias.php?ref_id=2339316&cmdClass=ilobjcoursegui&cmd=view&cmdNode=zf:ns&baseClass=ilRepositoryGUI*
+
 ---
 ## Bioinformatics 1
 ###### WS 2021/2022
@@ -130,7 +132,7 @@ A single hereditary unit is comprised of a subsequence of DNA (called a gene), w
 
 
 ### _Exercise 3 - DNA and RNA_
-a) What do these acronyms stand for within this course?
+**a)** What do these acronyms stand for within this course?
 
 - DNA
 - RNA
@@ -154,7 +156,7 @@ If you are puzzled, try to pick the right answer from the list below.
 - open reading frame
 
 
-b) Check whether the following terms belong to Eukaryotes, Prokaryotes, both.
+**b)** Check whether the following terms belong to Eukaryotes, Prokaryotes, both.
 
 - DNA
 - [ ] Eukaryotes
@@ -173,7 +175,7 @@ b) Check whether the following terms belong to Eukaryotes, Prokaryotes, both.
 - [ ] Prokaryotes
 
 
-c) Check whether the  following statements are True or False.
+**c)** Check whether the  following statements are True or False.
 
 - [ ] The genome is stored in the nucleus
 
@@ -188,4 +190,27 @@ c) Check whether the  following statements are True or False.
 
 
 - [ ] RNA is a single stranded bio-polymer
+
+### _Exercise 4 - Programming assignment: Transcription and Translation
+**a)** Implement a function which takes a DNA sequence as an input and returns the corresponding RNA sequence
+
+Assume that the provided DNA sequence will be an uppercase string containing only the correct caracters (from the domain "AGCT")
+The function output sequence also has to be in the upper case
+
+**b)** Inplement a function which takes an mRNA sequence and produces the corresponding protein sequence 
+
+Assume that the provided RNA sequence will be an uppercase string containing only the correct caracters (from the domain "AGCU")
+Assume that the sequence has both the start (AUG) and end codons and that the number of characters in the sequence is a multiple of three.
+
+The function output sequence also has to be in the upper case protein sequence.
+To make it easier for you we provided you with the translation table which is represented as a python dictionary. 
+You can translate a singe codone by simply using it:
+
+```
+translation_table["AUG"]
+
+```
+**c)** Combine the functions you implemented for the tasks **a)** and **b)** and obtain the central dogma function which gives you the protein sequence with a given DNA.
+
+All the ussumpitons about the inputs and output are similar to the tasks **a)** and **b)**
 
