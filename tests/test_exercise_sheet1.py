@@ -19,23 +19,23 @@ def test_exercise_1_a():
     a, b, c, d, e, f, g = exercise_1_a()
     check_none(a, b, c, d, e, f, g)
     assert a is True
-    assert b is True
-    assert c is True
-    assert d is True
-    assert e is True
-    assert f is True
-    assert g is True
+    assert b is False
+    assert c is False
+    assert d is False
+    assert e is False
+    assert f is False
+    assert g is False
 
 
 def test_exercise_1_b():
     a, b, c, d, e, f, g = exercise_1_b()
     check_none(a, b, c, d, e, f, g)
-    assert a is True
-    assert b is True
-    assert c is True
-    assert d is True
+    assert a is False
+    assert b is False
+    assert c is False
+    assert d is False
     assert e is True
-    assert f is True
+    assert f is False
     assert g is True
 
 
@@ -43,36 +43,36 @@ def test_exercise_1_c():
     a, b, c, d, e, f, g = exercise_1_c()
     check_none(a, b, c, d, e, f, g)
     assert a is True
-    assert b is True
+    assert b is False
     assert c is True
-    assert d is True
+    assert d is False
     assert e is True
     assert f is True
-    assert g is True
+    assert g is False
 
 
 def test_exercise_1_d():
     a, b, c, d, e, f, g = exercise_1_d()
     check_none(a, b, c, d, e, f, g)
     assert a is True
-    assert b is True
+    assert b is False
     assert c is True
-    assert d is True
+    assert d is False
     assert e is True
-    assert f is True
-    assert g is True
+    assert f is False
+    assert g is False
 
 
 def test_exercise_1_e():
     a, b, c, d, e, f, g = exercise_1_e()
     check_none(a, b, c, d, e, f, g)
-    assert a is True
+    assert a is False
     assert b is True
-    assert c is True
+    assert c is False
     assert d is True
     assert e is True
     assert f is True
-    assert g is True
+    assert g is False
 
 
 def test_exercise_2_a():
