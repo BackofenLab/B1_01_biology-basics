@@ -1,5 +1,6 @@
 def exercise_1_a():
-    """Exercise 1 a
+    """
+    Exercise 1 a
     Where is the genome stored in prokaryotes and eukaryotes?
     Assign the correct True and False values to the provided options.
     """
@@ -29,7 +30,8 @@ def exercise_1_a():
 
 
 def exercise_1_b():
-    """Exercise 1 b
+    """
+    Exercise 1 b
     Name two more differences between prokaryotes and eukaryotes?
     Assign the correct True and False values to the provided options.
     """
@@ -59,7 +61,8 @@ def exercise_1_b():
 
 
 def exercise_1_c():
-    """Exercise 1 c
+    """
+    Exercise 1 c
     Name examples for an organism for prokaryotes and eukaryotes.
     Assign the correct True and False values to the provided options.
     """
@@ -89,7 +92,8 @@ def exercise_1_c():
 
 
 def exercise_1_d():
-    """Exercise 1 d
+    """
+    Exercise 1 d
     Which of these are three information-carrying biopolymers?
     Assign the True and False values to the provided options.
     """
@@ -119,37 +123,39 @@ def exercise_1_d():
 
 
 def exercise_1_e():
-    """Exercise 1 e
+    """
+    Exercise 1 e
     What is denoted by the “Central Dogma” of molecular biology?
     Assign the True and False values to the provided options.
     """
 
-    #Protein can make Protein
+    # Protein can make Protein
     a = None
 
-    #DNA can make DNA
+    # DNA can make DNA
     b = None
 
-    #Protein can make RNA and then RNA makes DNA
+    # Protein can make RNA and then RNA makes DNA
     c = None
 
-    #DNA can make RNA and then RNA makes Protein
+    # DNA can make RNA and then RNA makes Protein
     d = None
 
-    #RNA can make RNA
+    # RNA can make RNA
     e = None
 
-    #DNA can make RNA and then RNA makes DNA
+    # DNA can make RNA and then RNA makes DNA
     f = None
 
-    #Protein can make DNA
+    # Protein can make DNA
     g = None
 
     return a, b, c, d, e, f, g
 
 
 def exercise_2_a():
-    """Exercise 2 a
+    """
+    Exercise 2 a
     Assign the numbers (1-10) in the figure (see GitHub Readme or figures/sheet1-q2.png) to
     the respective terms given in the following dictionary:
     """
@@ -169,7 +175,8 @@ def exercise_2_a():
 
 
 def exercise_2_b():
-    """Exercise 2 b
+    """
+    Exercise 2 b
     A piece of DNA contains 33% guanine.
     What are the percentages of adenine, cytosine, and thymine in that piece of DNA?
     Assign the percentages of each base to the following dictionary (in integer representation).
@@ -184,7 +191,8 @@ def exercise_2_b():
 
 
 def exercise_2_c():
-    """Exercise 2 c
+    """
+    Exercise 2 c
     Which of the bases are pyrmidenes and which are purines?
     Add the nucleotide representation of each base
     (A for adenine, C for cytosine, G for guanine, T for thymine, U for uracil)
@@ -197,7 +205,8 @@ def exercise_2_c():
 
 
 def exercise_2_d():
-    """Exercise 2 d
+    """
+    Exercise 2 d
     Which of these statements concerning DNA and RNA are true and which are false?
     Change the respective variable values with True or False accordingly.
     """
@@ -221,7 +230,8 @@ def exercise_2_d():
 
 
 def exercise_2_e():
-    """Exercise 2 e
+    """
+    Exercise 2 e
     In what direction is an RNA sequence written ?
     Change the respective variable values with True or False accordingly.
     """
@@ -236,7 +246,8 @@ def exercise_2_e():
 
 
 def exercise_2_f():
-    """Exercise 2 f
+    """
+    Exercise 2 f
     Why is the RNA sequence written in that diretion?
     Change the respective variable values with True or False accordingly.
     """
@@ -254,7 +265,8 @@ def exercise_2_f():
 
 
 def exercise_2_g():
-    """Exercise 2 g
+    """
+    Exercise 2 g
     Decide for the following RNAs whether they are coding or non-coding
     by adding them to the correct list.
     mRNA, tRNA, rRNA, microRNA, siRNA, snoRNA
@@ -268,7 +280,8 @@ def exercise_2_g():
 
 
 def exercise_3_a():
-    """Exercise 3 a
+    """
+    Exercise 3 a
     What do these acronyms stand for within this course?
     Enter the number of the correct answer from the list below in the dictionary
 
@@ -298,7 +311,8 @@ def exercise_3_a():
 
 
 def exercise_3_b():
-    """Exercise 3 b
+    """
+    Exercise 3 b
     Check whether the following terms belong to Eukaryotes (1), Prokaryotes (2)
     or both (3).
     e.g. DNA: 3
@@ -314,25 +328,26 @@ def exercise_3_b():
 
 
 def exercise_3_c():
-    """Exercise 3 c
+    """
+    Exercise 3 c
     Check whether the  following statements are True or False. Enter your
     answer by changing the variable value accordingly.
     e.g. a = True
     """
 
-    "The genome is stored in the nucleus"
+    # The genome is stored in the nucleus
     a = None
 
-    "FASTA files are used to store sequence information"
+    # FASTA files are used to store sequence information
     b = None
 
-    "A Watson-Crick base pair describes a pyrimidine pairing with a purine"
+    # A Watson-Crick base pair describes a pyrimidine pairing with a purine
     c = None
 
-    "A Watson-Crick base pair describes a purine pairing with a purine"
+    # A Watson-Crick base pair describes a purine pairing with a purine
     d = None
 
-    "RNA is a single stranded bio-polymer"
+    # RNA is a single stranded bio-polymer
     e = None
 
     return a, b, c, d, e
