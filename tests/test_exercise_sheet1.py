@@ -11,9 +11,9 @@ def check_none(*args):
 
 
 def check_zero_in_dict(d):
-    val = d.values
+    val = d.values()
     if 0 in val:
-        print("you have not fill in all the fields")
+        print("you have not filled in all the fields")
         raise ValueError
 
 
@@ -22,7 +22,7 @@ def correct_transcription(dna_seq):
 
 
 def correct_translation(rna_seq):
-    return "".join([translation_table[3*i:(3*i+1)]
+    return "".join([translation_table[rna_seq[3*i:(3*i+3)]]
                     for i in range(len(rna_seq)//3)])
 
 
@@ -65,7 +65,7 @@ def test_exercise_1_b():
     assert d is False
     assert e is True
     assert f is False
-    assert g is True
+    assert g is False
 
 
 def test_exercise_1_c():
@@ -177,7 +177,7 @@ def test_exercise_2_g():
 
     coding, non_coding = exercise_2_g()
 
-    conding, non_coding = unification(coding), unification(non_coding)
+    coding, non_coding = unification(coding), unification(non_coding)
 
     coding_true = unification(["mRNA"])
     non_coding_true = unification(["microRNA", "rRNA", "siRNA", "snoRNA", "tRNA"])
