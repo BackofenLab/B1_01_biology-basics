@@ -119,11 +119,11 @@ A single hereditary unit consists of a subsequence of DNA (called a gene), which
 - [ ] RNA has an intermolecular double-helix structure
 - [ ] RNA contains ribose sugar
 
-**e)** In what direction is an RNA sequence written ?
+**e)** In what direction is an RNA sequence written?
 - [ ] 3' end to 5' end
 - [ ] 5' end to 3' end
 
-**f)** Why is the RNA sequence written in that direction ?
+**f)** Why is the RNA sequence written in that direction?
 - [ ] The order is based on the numbering of the carbons in the sugar of the nucleic acid
 - [ ] The order is based on the numbering of the carbons in the phosphate of the nucleic acid
 - [ ] The order was arbitrarily chosen by the discoverer of RNA
