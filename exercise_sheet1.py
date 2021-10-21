@@ -32,7 +32,7 @@ def exercise_1_a():
 def exercise_1_b():
     """
     Exercise 1 b
-    Name two more differences between prokaryotes and eukaryotes?
+    Name differences between prokaryotes and eukaryotes?
     Assign the correct True and False values to the provided options.
     """
 
@@ -193,7 +193,7 @@ def exercise_2_b():
 def exercise_2_c():
     """
     Exercise 2 c
-    Which of the bases are pyrmidenes and which are purines?
+    Which of the bases are pyrimidines and which are purines?
     Add the nucleotide representation of each base
     (A for adenine, C for cytosine, G for guanine, T for thymine, U for uracil)
     to the correct list.
