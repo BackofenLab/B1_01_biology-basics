@@ -6,7 +6,7 @@ from helpers.helpers import translation_table
 
 def check_none(*args):
     if None in args:
-        print("you have not fill in all the fields")
+        print("you have not filled in all the fields")
         raise ValueError
 
 
