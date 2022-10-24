@@ -49,7 +49,7 @@ Do not forget to use your own user ID. Now, answers the questions.
 
 
 ```
-$ cd lecture-1-biology-basics-userID
+$ cd 01_biology-basics-userID
 $ emacs -nw exercise_sheet1.py
 ```
 
