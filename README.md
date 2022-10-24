@@ -11,7 +11,8 @@ Course ILIAS web page: *https://ilias.uni-freiburg.de/ilias.php?ref_id=2339316&c
 ---
 
 ### _Exercise 4 - Programming assignment: Transcription and Translation_
-**a)** Implement a function which takes a DNA sequence as an input and returns the corresponding RNA sequence.
+**a)** Implement the transcription function which takes a DNA sequence as an input and returns the corresponding RNA sequence.
+
 
 Assume that the provided DNA sequence will be an uppercase string containing only the correct characters (from the domain "AGCT").
 The function output RNA sequence also has to be in the upper case.
