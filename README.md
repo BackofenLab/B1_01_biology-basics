@@ -17,7 +17,7 @@ Course ILIAS web page: *https://ilias.uni-freiburg.de/ilias.php?ref_id=2339316&c
 Assume that the provided DNA sequence will be an uppercase string containing only the correct characters (from the domain "AGCT").
 The function output RNA sequence also has to be in the upper case.
 
-**b)** Implement a function which takes an mRNA sequence and produces the corresponding protein sequence.
+**b)** Implement the translation function which takes an mRNA sequence and produces the corresponding protein sequence.
 
 Assume that the provided RNA sequence will be an uppercase string containing only the correct characters (from the domain "AGCU").
 Assume that the sequence starts with the start codon (AUG) and ends with one of the end codons. It does not have any end codons in the middle.The number of characters in the input RNA sequence is a multiple of three.
