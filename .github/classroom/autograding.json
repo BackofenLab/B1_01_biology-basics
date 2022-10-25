@@ -3,7 +3,7 @@
     {
       "name": "Programming assignment: item a",
       "setup": "sudo -H pip3 install -r requirements.txt --quiet",
-      "run": "pytest -s --no-header --tb=no -rN -x ./tests/test_exercise_sheet2.py -k '4a'",
+      "run": "pytest -s --no-header --tb=no -rN -x ./tests/test_exercise_sheet1.py -k '4a'",
       "input": "",
       "output": "",
       "comparison": "included",
@@ -13,7 +13,7 @@
     {
       "name": "Programming assignment: item b",
       "setup": "",
-      "run": "pytest -s --no-header --tb=no -rN -x ./tests/test_exercise_sheet2.py -k '4b'",
+      "run": "pytest -s --no-header --tb=no -rN -x ./tests/test_exercise_sheet1.py -k '4b'",
       "input": "",
       "output": "",
       "comparison": "included",
@@ -23,7 +23,7 @@
         {
       "name": "Programming assignment: item c",
       "setup": "",
-      "run": "pytest -s --no-header --tb=no -rN -x ./tests/test_exercise_sheet2.py -k '4c'",
+      "run": "pytest -s --no-header --tb=no -rN -x ./tests/test_exercise_sheet1.py -k '4c'",
       "input": "",
       "output": "",
       "comparison": "included",
