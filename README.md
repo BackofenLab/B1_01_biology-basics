@@ -6,7 +6,6 @@ Course ILIAS web page: *https://ilias.uni-freiburg.de/ilias.php?ref_id=2339316&c
 
 ---
 ## Bioinformatics 1
-###### WS 2021/2022
 ##### Exercise sheet 1: Biology basics - DNA/RNA
 ---
 
