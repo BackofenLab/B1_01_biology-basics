@@ -12,7 +12,7 @@
     },
     {
       "name": "Programming assignment: item b",
-      "setup": "sudo -H pip3 install -r requirements.txt --quiet",
+      "setup": "",
       "run": "pytest -s --no-header --tb=no -rN -x ./tests/test_exercise_sheet2.py -k '4b'",
       "input": "",
       "output": "",
@@ -21,8 +21,8 @@
       "points": 20
     },
         {
-      "name": "Programming assignment: item b",
-      "setup": "sudo -H pip3 install -r requirements.txt --quiet",
+      "name": "Programming assignment: item c",
+      "setup": "",
       "run": "pytest -s --no-header --tb=no -rN -x ./tests/test_exercise_sheet2.py -k '4c'",
       "input": "",
       "output": "",
